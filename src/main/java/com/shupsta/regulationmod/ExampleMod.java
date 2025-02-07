@@ -1,4 +1,4 @@
-package com.example.examplemod;
+package com.shupsta.regulationmod;
 
 import org.slf4j.Logger;
 
